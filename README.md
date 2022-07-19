@@ -13,6 +13,10 @@
 - [ ] Migrate Privilege Control to Generic Views
 - [ ] Smart Update `Project/settings.py`
 
+## Usage
+
+> pip install djangorestframework-enhanced
+
 ## Build
 
 > python .\setup.py sdist bdist_wheel
